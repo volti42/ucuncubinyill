@@ -1,0 +1,14 @@
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.AssemblyInfoInputs.cache
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.AssemblyInfo.cs
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\bin\Debug\net8.0\01_odev.exe
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\bin\Debug\net8.0\01_odev.deps.json
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\bin\Debug\net8.0\01_odev.runtimeconfig.json
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\bin\Debug\net8.0\01_odev.dll
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\bin\Debug\net8.0\01_odev.pdb
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.dll
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\refint\01_odev.dll
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.pdb
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\01_odev.genruntimeconfig.cache
+C:\Users\Hakan\OneDrive\Masaüstü\odev2\odev\01_odev\obj\Debug\net8.0\ref\01_odev.dll
