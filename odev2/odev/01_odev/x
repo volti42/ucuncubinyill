@@ -1,0 +1,16 @@
+  //int[] sayilar = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14 };
+  //double toplam = 0;
+  //double toplam2 = 0;
+  //foreach (int x in sayilar)
+  //{
+  //    if (x % 2 == 0)
+  //    {
+  //        toplam += x;
+  //    }
+  //    else
+  //    {
+  //        toplam2 += x;
+  //    }
+
+  //}
+  //Console.WriteLine("Teklerin toplamı:" + toplam2 + " " + "çiftlerin toplamı:" + toplam);
