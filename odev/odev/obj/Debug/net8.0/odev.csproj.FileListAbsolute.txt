@@ -1,0 +1,4 @@
+C:\Users\vrlse\OneDrive\Masaüstü\odev3\odev\odev\obj\Debug\net8.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrlse\OneDrive\Masaüstü\odev3\odev\odev\obj\Debug\net8.0\odev.AssemblyInfoInputs.cache
+C:\Users\vrlse\OneDrive\Masaüstü\odev3\odev\odev\obj\Debug\net8.0\odev.AssemblyInfo.cs
+C:\Users\vrlse\OneDrive\Masaüstü\odev3\odev\odev\obj\Debug\net8.0\odev.csproj.CoreCompileInputs.cache

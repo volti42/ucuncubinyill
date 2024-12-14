@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\odev\\odev.csproj",
-      "projectName": "odev",
-      "projectPath": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\odev\\odev.csproj",
+      "projectUniqueName": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\vrlse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\odev\\obj\\",
+      "outputPath": "C:\\Users\\vrlse\\OneDrive\\Masaüstü\\odev3\\odev\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vrlse\\AppData\\Roaming\\NuGet\\NuGet.Config",
