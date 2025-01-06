@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hm_02_manav/1.0.0": {
+        "runtime": {
+          "hm_02_manav.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hm_02_manav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
